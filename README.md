@@ -1,7 +1,5 @@
-#This is a React.js project for showing products
+## This is a React.js project for showing products
 
-## Available Scripts
-
-In the project directory, you can run:
+Available Scripts:
 
 ### `yarn start`
